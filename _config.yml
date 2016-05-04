@@ -1,0 +1,28 @@
+name: UnRaid
+favicon: null
+layout_spectrum: 0.21942358859814703
+typography_spectrum: 0.20823502424173057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2928585282061249
+  lightness: 0.08291775244288146
+  saturation: 0.06074366858229041
+  rhythmicContrast: 0.9843692309223115
+purpose: []
